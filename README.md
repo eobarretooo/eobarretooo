@@ -32,11 +32,9 @@ currently_building: ClawLite 🦊
 
 ## 🧠 Projeto em destaque — ClawLite
 
-<div align="center">
-  <a href="https://github.com/eobarretooo/ClawLite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eobarretooo&repo=ClawLite&theme=transparent&title_color=ff6b2b&text_color=00f5ff&icon_color=ff6b2b&border_color=334155" />
-  </a>
-</div>
+<a href="https://github.com/eobarretooo/ClawLite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eobarretooo&repo=ClawLite&theme=dark&title_color=ff6b2b&text_color=ffffff&icon_color=00f5ff&bg_color=0d1117&border_color=334155" />
+</a>
 
 <p align="center">
   Assistente open source com gateway, dashboard, skills marketplace, memória persistente e operação Linux/Termux-first.
