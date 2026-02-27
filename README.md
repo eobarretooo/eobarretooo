@@ -26,7 +26,16 @@ focus:
   - runtimes confiáveis para produção
 style: direto, técnico, execução > discurso
 currently_building: ClawLite 🦊
+experience_since: 2020
+always_open_to: PRs, discussões, parcerias
 ```
+
+## 🎯 Interesses
+
+- LLMs e IA em produção
+- Automação inteligente
+- Open Source
+- Builder de produtos do zero
 
 ---
 
@@ -55,9 +64,23 @@ Assistente open source com gateway, dashboard, skills marketplace, memória pers
 
 <!-- stats serão ativados após primeiros commits -->
 
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=eobarretooo&theme=dark&show_icons=true&title_color=ff6b2b&icon_color=00f5ff&border_color=334155)
+
 ---
 
 > "Build less. Ship more. Let the agents work." 🦊
+
+
+<p align="center">
+  <a href="https://github.com/eobarretooo/ClawLite">⭐ Deixe uma star no ClawLite!</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/eobarretooo/ClawLite/issues">💬 Abra uma issue</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.threads.net/@eo_barretooo">🧵 Me siga no Threads</a>
+</p>
 
 <div align="center">
 
