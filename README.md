@@ -1,54 +1,71 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f37c9&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f37c9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Renan+Barreto+Pimentel;I'm+20+years+old;I+am+from+Suzano,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# 👋 Ewerton Barreto (`eobarretooo`)
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Desenvolvedor+focado+em+IA+multi-agente;Construindo+ClawLite+e+VeloRota;Automa%C3%A7%C3%A3o%2C+mobile%2C+realtime+e+produtividade" alt="Typing SVG" />
 
+![Status](https://img.shields.io/badge/Status-Coding%20Now-22c55e?style=for-the-badge&logo=github)
+![Foco](https://img.shields.io/badge/Foco-AI%20Multi--Agent-7c3aed?style=for-the-badge)
+![Timezone](https://img.shields.io/badge/Timezone-UTC-0ea5e9?style=for-the-badge)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eobarretooo&show_icons=true&count_private=true&hide_border=true&title_color=3f37c9&icon_color=3f37c9&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eobarretooo&layout=compact&hide_border=true&title_color=3f37c9&text_color=3f37c9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eobarretooo&bg_color=000000&color=3f37c9&line=3f37c9&point=3f37c9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<!--🏆TROPHYGIF-->
-<p align="center">
-<img src="https://media.tenor.com/lbJXQL_diL0AAAAi/ahmeteroll.gif"  width="100px" height="100px"></p>
+## 🚀 Sobre mim
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eobarretooo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+Sou desenvolvedor construindo produtos com **IA multi-agente**, automação e experiência prática em produção.
+
+Atualmente focado em:
+- arquiteturas de agentes autônomos
+- apps mobile com dados em tempo real
+- integração entre canais (chat, social, gateway)
+- produto rápido com ciclos curtos de entrega
+
+---
+
+## 🌟 Projetos em destaque
+
+### 🧠 [ClawLite](https://github.com/eobarretooo/ClawLite)
+Assistente open source para **Linux/Termux** com gateway, skills, dashboard web, automações e foco em execução autônoma.
+
+### 🛵 [VeloRota](https://github.com/eobarretooo/VeloRota) *(em evolução)*
+App para motoboys com geolocalização em tempo real, insights operacionais e base para heatmap histórico por horário/dia.
+
+---
+
+## 🧰 Stack tecnológica
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,firebase,sqlite,postgres,docker,git,github,vscode,linux" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/eo_barretooo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+**Também uso:** React Native, Expo, FastAPI, WebSocket, automação com bots e pipelines de IA.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eobarretooo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eobarretooo&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=eobarretooo&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<div align="center">  
-<a href="https://discord.com/channels/@rehbp/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
+---
+
+## 🌐 Redes
+
+- GitHub: [@eobarretooo](https://github.com/eobarretooo)
+- Threads: [@eo_barretooo](https://www.threads.net/@eo_barretooo)
+
+---
+
+<div align="center">
+
+### ⚡ "Consistência vence motivação quando o objetivo é construir algo grande."
+
 </div>
-
-
-### Habilidades principais:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-[![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eobarretooo)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)&nbsp;
-
-
-### Outros conhecimentos:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-### Estudando neste momento:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=eobarretooo&style=for-the-badge)">
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f37c9&height=120&section=footer"/>
