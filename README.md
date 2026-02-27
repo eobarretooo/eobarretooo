@@ -69,3 +69,11 @@ App para motoboys com geolocalização em tempo real, insights operacionais e ba
 ### ⚡ "Consistência vence motivação quando o objetivo é construir algo grande."
 
 </div>
+
+---
+
+## 🐍 Commit Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eobarretooo/eobarretooo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
