@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Renan Barreto (`eobarretooo`)
+# 👋 Renan (`eobarretooo`)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Desenvolvedor+focado+em+IA+multi-agente;Construindo+ClawLite+e+VeloRota;Automa%C3%A7%C3%A3o%2C+mobile%2C+realtime+e+produtividade" alt="Typing SVG" />
 
