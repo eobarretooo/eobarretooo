@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6b2b,100:00f5ff&text=Renan%20%7C%20eobarretooo&fontColor=0b1020&fontSize=48&fontAlignY=38&desc=ClawLite%20Builder&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6b2b,100:00f5ff&text=Renan%20%7C%20eobarretooo&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=ClawLite%20Builder&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&center=true&vCenter=true&width=900&color=00F5FF&lines=Desenvolvedor;Builder+de+IA;Criador+do+ClawLite" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&center=true&vCenter=true&width=900&color=00F5FF&lines=Desenvolvedor;Builder+de+IA;Criador+do+ClawLite;Automa%C3%A7%C3%A3o+Multi-Agente;Linux+%26+Termux+First" alt="typing" />
 
 <p>
   <a href="https://github.com/eobarretooo"><img src="https://img.shields.io/badge/GitHub-@eobarretooo-111827?style=for-the-badge&logo=github"/></a>
@@ -25,11 +25,9 @@ focus:
   - automação multi-agente
   - runtimes confiáveis para produção
 style: direto, técnico, execução > discurso
+currently_building: ClawLite 🦊
 ```
 
-<div align="center">
-  <img src="https://github.com/eobarretooo.png" width="140" style="border-radius:50%; border:3px solid #00f5ff;" alt="avatar" />
-</div>
 
 ---
 
@@ -55,13 +53,9 @@ style: direto, técnico, execução > discurso
 ## ⚙️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,firebase,react,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,firebase,react,linux,bash,git,sqlite,docker" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-0ea5e9?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Termux-1f2937?style=flat-square"/>
-</p>
 
 ---
 
@@ -91,6 +85,9 @@ style: direto, técnico, execução > discurso
 > Atualização automática via GitHub Action em `.github/workflows/snake.yml`.
 
 ---
+
+
+> "Build less. Ship more. Let the agents work." 🦊
 
 <div align="center">
 
