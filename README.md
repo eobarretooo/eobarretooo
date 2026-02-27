@@ -2,7 +2,7 @@
 
 # 👋 Renan (`eobarretooo`)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Desenvolvedor+focado+em+IA+multi-agente;Construindo+ClawLite+e+VeloRota;Automa%C3%A7%C3%A3o%2C+mobile%2C+realtime+e+produtividade" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Desenvolvedor+focado+em+IA+multi-agente;Construindo+ClawLite+em+escala;Automa%C3%A7%C3%A3o%2C+mobile%2C+realtime+e+produtividade" alt="Typing SVG" />
 
 ![Status](https://img.shields.io/badge/Status-Coding%20Now-22c55e?style=for-the-badge&logo=github)
 ![Foco](https://img.shields.io/badge/Foco-AI%20Multi--Agent-7c3aed?style=for-the-badge)
@@ -29,8 +29,8 @@ Atualmente focado em:
 ### 🧠 [ClawLite](https://github.com/eobarretooo/ClawLite)
 Assistente open source para **Linux/Termux** com gateway, skills, dashboard web, automações e foco em execução autônoma.
 
-### 🛵 [VeloRota](https://github.com/eobarretooo/VeloRota) *(em evolução)*
-App para motoboys com geolocalização em tempo real, insights operacionais e base para heatmap histórico por horário/dia.
+### ⚡ Ecossistema ClawLite
+Ferramentas, skills, automações e runtime para operação real de assistente IA em Linux/Termux.
 
 ---
 
