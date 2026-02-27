@@ -28,7 +28,6 @@ style: direto, técnico, execução > discurso
 currently_building: ClawLite 🦊
 ```
 
-
 ---
 
 ## 🧠 Projeto em destaque — ClawLite
@@ -56,36 +55,9 @@ currently_building: ClawLite 🦊
   <img src="https://skillicons.dev/icons?i=python,firebase,react,linux,bash,git,sqlite,docker" />
 </div>
 
+<!-- stats serão ativados após primeiros commits -->
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eobarretooo&show_icons=true&theme=transparent&title_color=ff6b2b&text_color=00f5ff&icon_color=ff6b2b&border_color=334155" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eobarretooo&layout=compact&theme=transparent&title_color=ff6b2b&text_color=00f5ff&border_color=334155" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=eobarretooo&theme=transparent&ring=ff6b2b&fire=ff6b2b&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=94a3b8&border=334155" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eobarretooo/eobarretooo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eobarretooo/eobarretooo/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/eobarretooo/eobarretooo/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> Atualização automática via GitHub Action em `.github/workflows/snake.yml`.
-
----
-
 
 > "Build less. Ship more. Let the agents work." 🦊
 
