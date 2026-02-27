@@ -26,7 +26,7 @@ focus:
   - runtimes confiáveis para produção
 style: direto, técnico, execução > discurso
 currently_building: ClawLite 🦊
-experience_since: 2020
+experience_since: tentando aprender desenvolvimento desde 2020
 always_open_to: PRs, discussões, parcerias
 ```
 
