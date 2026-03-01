@@ -47,10 +47,10 @@ Agradecimento ao ecossistema open source por acelerar aprendizado, arquitetura e
   <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,linux,bash,git,docker,githubactions,react" />
 </div>
 
-## Repositórios em destaque
+## Links em destaque
 
 - [ClawLite](https://github.com/eobarretooo/ClawLite): core do assistente
-- [clawlite-site](https://github.com/eobarretooo/clawlite-site): site/documentação
+- [Documentação do ClawLite](https://eobarretooo.github.io/ClawLite/): guias, runbooks e onboarding
 
 ## Estatísticas
 
