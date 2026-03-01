@@ -49,8 +49,10 @@ Agradecimento ao ecossistema open source por acelerar aprendizado, arquitetura e
 
 ## Links em destaque
 
-- [ClawLite](https://github.com/eobarretooo/ClawLite): core do assistente
-- [Documentação do ClawLite](https://eobarretooo.github.io/ClawLite/): guias, runbooks e onboarding
+- [ClawLite (repo)](https://github.com/eobarretooo/ClawLite): código-fonte principal
+- [Documentação](https://eobarretooo.github.io/ClawLite/): guias, runbooks e onboarding
+- [Site oficial](https://clawlite-site.vercel.app): apresentação e visão geral do projeto
+- [Site das skills](https://clawlite-skills-site.vercel.app): catálogo público de skills
 
 ## Estatísticas
 
