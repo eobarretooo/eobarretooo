@@ -51,8 +51,6 @@ Agradecimento ao ecossistema open source por acelerar aprendizado, arquitetura e
 
 - [ClawLite](https://github.com/eobarretooo/ClawLite): core do assistente
 - [clawlite-site](https://github.com/eobarretooo/clawlite-site): site/documentação
-- [clawlite-skills-site](https://github.com/eobarretooo/clawlite-skills-site): catálogo de skills
-- [codex-skills](https://github.com/eobarretooo/codex-skills): skills usadas no fluxo de desenvolvimento
 
 ## Estatísticas
 
