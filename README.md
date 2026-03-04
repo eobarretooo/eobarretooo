@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6b2b,100:00f5ff&text=Renan%20%7C%20eobarretooo&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Builder%20de%20assistentes%20de%20IA&descAlignY=58" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&center=true&vCenter=true&width=900&color=00F5FF&lines=Python+%7C+Linux+%7C+Termux;Criador+do+ClawLite;Automa%C3%A7%C3%A3o+multi-agente;IA+em+produ%C3%A7%C3%A3o" alt="typing" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6b2b,100:00f5ff&text=Renan%20%7C%20eobarretooo&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Engenharia%20de%20software%20e%20assistentes%20de%20IA&descAlignY=58" />
+
   <p>
     <a href="https://github.com/eobarretooo"><img src="https://img.shields.io/badge/GitHub-@eobarretooo-111827?style=for-the-badge&logo=github"/></a>
     <a href="https://github.com/eobarretooo/ClawLite"><img src="https://img.shields.io/badge/Projeto%20principal-ClawLite-ff6b2b?style=for-the-badge"/></a>
@@ -8,27 +8,25 @@
   </p>
 </div>
 
-## Sobre
+## Quem sou
 
-Sou o Renan (`eobarretooo`), builder focado em assistentes pessoais de IA com operação real em Linux/Termux.
+Sou Renan (`eobarretooo`), desenvolvedor focado em automação e assistentes de IA para uso real em Linux e Termux.
 
-Foco atual:
-- ClawLite como assistente pessoal open source
-- confiabilidade de canais e automações (24/7)
-- experiência de onboarding e documentação para uso em produção
+## Foco atual
 
-## Projeto principal
+- evoluir o `ClawLite` como assistente pessoal open source
+- aumentar confiabilidade de gateway, canais e rotinas de execução contínua
+- simplificar onboarding e operação para uso diário
 
-### ClawLite
+## Destaque: ClawLite
 
 Repositório: [eobarretooo/ClawLite](https://github.com/eobarretooo/ClawLite)
 
-O ClawLite é um assistente pessoal de IA com:
-- gateway HTTP + dashboard web
-- skills e integrações por canal
-- memória persistente
-- operação em Linux e Termux+proot
-- runbooks e checklist de release para beta/estável
+Projeto em Python com arquitetura prática para assistente pessoal:
+- gateway HTTP + WebSocket com dashboard
+- memória persistente e fluxo de tarefas orientado a contexto
+- integração por skills e canais
+- execução em Linux e Termux (via proot)
 
 <p>
   <img src="https://img.shields.io/github/stars/eobarretooo/ClawLite?style=flat-square&color=ff6b2b"/>
@@ -36,23 +34,23 @@ O ClawLite é um assistente pessoal de IA com:
   <img src="https://img.shields.io/github/last-commit/eobarretooo/ClawLite?style=flat-square"/>
 </p>
 
-## Open source e referência
+## O que estou construindo agora
 
-O ClawLite também se beneficia de estudo e referência do projeto [OpenClaw](https://github.com/openclaw/openclaw), que é open source.  
-Agradecimento ao ecossistema open source por acelerar aprendizado, arquitetura e validação de ideias.
+- adaptação do dashboard e gateway para arquitetura do ClawLite
+- heartbeat, bootstrap e onboarding com fluxo orientado a produção
+- melhorias de documentação técnica e runbooks de operação
+
+## Links úteis
+
+- [ClawLite (repo)](https://github.com/eobarretooo/ClawLite)
+- [Documentação do ClawLite](https://eobarretooo.github.io/ClawLite/)
+- [OpenClaw (referência open source)](https://github.com/openclaw/openclaw)
 
 ## Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,linux,bash,git,docker,githubactions,react" />
 </div>
-
-## Links em destaque
-
-- [ClawLite (repo)](https://github.com/eobarretooo/ClawLite): código-fonte principal
-- [Documentação](https://eobarretooo.github.io/ClawLite/): guias, runbooks e onboarding
-- [Site oficial](https://clawlite-site.vercel.app): apresentação e visão geral do projeto
-- [Site das skills](https://clawlite-skills-site.vercel.app): catálogo público de skills
 
 ## Estatísticas
 
