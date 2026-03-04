@@ -44,7 +44,13 @@ Projeto em Python com arquitetura prática para assistente pessoal:
 
 - [ClawLite (repo)](https://github.com/eobarretooo/ClawLite)
 - [Documentação do ClawLite](https://eobarretooo.github.io/ClawLite/)
-- [OpenClaw (referência open source)](https://github.com/openclaw/openclaw)
+
+## Inspirações open source
+
+Projetos que inspiram decisões de arquitetura e evolução contínua do ClawLite:
+- [OpenClaw](https://github.com/openclaw/openclaw)
+- [memU](https://github.com/NevaMind-AI/memU)
+- [nanobot](https://github.com/HKUDS/nanobot)
 
 ## Stack
 
