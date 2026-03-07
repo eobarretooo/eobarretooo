@@ -1,0 +1,30 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza diariamente a meia noite (UTC)
+  workflow_dispatch:  # Permite que você rode manualmente clicando num botão
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: czl9707/gh-space-shooter@v1
+        with:
+          # O token é gerado automaticamente pelo GitHub Actions, 
+          # você não precisa configurar secrets manuais para isso funcionar!
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Nome do arquivo final
+          output-path: 'game.gif'
+          
+          # O padrão de ataque dos inimigos ('random', 'column', 'row')
+          strategy: 'random'
+          
+          # Se quiser uma animação mais fluida, aumente o fps (padrão é 40)
+          fps: '40'
