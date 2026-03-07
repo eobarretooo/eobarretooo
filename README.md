@@ -68,6 +68,10 @@ Projetos que inspiram decisões de arquitetura e evolução contínua do ClawLit
 - GitHub: [@eobarretooo](https://github.com/eobarretooo)
 - Threads: [@eo_barretooo](https://www.threads.net/@eo_barretooo)
 
+### 🚀 Minhas Contribuições no GitHub (Space Shooter)
+![Meu GitHub Game](./game.gif)
+
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00f5ff,100:ff6b2b" />
 </div>
