@@ -32,3 +32,6 @@ status: actively developing
 [![GitHub Streak](https://streak-stats.demolab.com?user=eobarretooo&theme=dark&hide_border=true&ring=FF6B2B&fire=FF6B2B&currStreakLabel=00f5ff&sideLabels=00f5ff)](https://github.com/eobarretooo)
 
 </div>
+
+
+![Meu GitHub Game](./game.gif)
